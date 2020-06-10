@@ -43,10 +43,10 @@ class App extends Component {
                 <Icon name="paw"></Icon>
                 <Header as="h1"></Header>
                 <p>
-                  This is a Single Page Web App using React, Redux, Semantic UI
-                  as frontend
+                  This is a Single Page Web App using <Icon name="react" />
+                  React, Redux, Semantic UI as frontend
                 </p>
-                <p>+ Spring Boot as backend Created by UGGL233</p>
+                <p>+ <Icon name="power off" /> Spring Boot as backend Created by UGGL233</p>
                 <Header as="h1"></Header>
                 <Header as="h1"></Header>
                 <Link to="/getAllEmployees">
